@@ -1,0 +1,25325 @@
+#Hymns composed on several subjects, and on divers occasions: In three parts. : With an alphabetical table. / By R. Davis ... ; Some of the hymns composed by other hands.#
+
+##Davis, Richard, 1658-1714.##
+Hymns composed on several subjects, and on divers occasions: In three parts. : With an alphabetical table. / By R. Davis ... ; Some of the hymns composed by other hands.
+Davis, Richard, 1658-1714.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/A81/A81996.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/A81/A81996.epub) • 
+[Page images (Historical Texts)](https://historicaltexts.jisc.ac.uk/eebo-15601434e)
+
+**Availability**
+
+To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.
+
+**Major revisions**
+
+1. __2013-08__ __TCP__ *Assigned for keying and markup*
+1. __2013-09__ __SPi Global__ *Keyed and coded from ProQuest page images*
+1. __2014-02__ __Simon Charles__ *Sampled and proofread*
+1. __2014-02__ __Simon Charles__ *Text and markup reviewed and edited*
+1. __2014-03__ __pfs__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+HYMNS Compoſed on Several Subjects, And on DIVERS OCCASIONS: In Three PARTS. With an Alphabetical Ta
+1. The Table.
+
+1. BOOKS Sold by William Marſhall at the Bible in Newgateſtreet.
+
+1. BOOKS Sold by H. Barnard at the Bible in the Poultry.
+
+#####Body#####
+Select Hymns.BOOK. I.HYMN I.CHriſt is our Holineſs and Peace,Chriſt is our righteouſneſs;Chriſt is o
+    _ Select Hymns.
+
+      * HYMN I.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN II.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN III.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN. V.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN X.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIV. Sung at a Funeral.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN. XXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XL.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVI. (On ſome Verſes in Iſaiah LIII.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVII. A Hymn ſung at Mr. B—'s Funeral Sermon: 1 Cor. 15.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVIII. (On the Second Sermon.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIX. (A Paraphraſe on Pſalm 113.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN L.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LIII. (A HYMN ſung on a Day of Thankſgiving, ſet apart by a Church of Chriſt, to celebrate and praiſe the Lord for his late Favours and Mercies unto them.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN I.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN II.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN III.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN V.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN X.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XL.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+HYMN I.OUR Lord and Head we ſaw did falla Sacrifice for us;We by his Stripes are heal'd whilſt hewas
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * Theſe following Hymns were found in Mr. Browning's Study, and uſed by him at the Lord's Table.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+    _ Select Hymns.
+
+      * HYMN I.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN II.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN III.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN. V.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN X.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIV. Sung at a Funeral.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN. XXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XL.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVI. (On ſome Verſes in Iſaiah LIII.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVII. A Hymn ſung at Mr. B—'s Funeral Sermon: 1 Cor. 15.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVIII. (On the Second Sermon.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIX. (A Paraphraſe on Pſalm 113.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN L.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LIII. (A HYMN ſung on a Day of Thankſgiving, ſet apart by a Church of Chriſt, to celebrate and praiſe the Lord for his late Favours and Mercies unto them.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN I.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN II.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN III.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN V.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN X.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XL.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+HYMN I.OUR Lord and Head we ſaw did falla Sacrifice for us;We by his Stripes are heal'd whilſt hewas
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * Theſe following Hymns were found in Mr. Browning's Study, and uſed by him at the Lord's Table.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+    _ Select Hymns FOR THE LORD's TABLE.
+
+      * HYMN I.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN II.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN III.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN. V.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN X.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIV. Sung at a Funeral.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN. XXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XL.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVI. (On ſome Verſes in Iſaiah LIII.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVII. A Hymn ſung at Mr. B—'s Funeral Sermon: 1 Cor. 15.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVIII. (On the Second Sermon.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIX. (A Paraphraſe on Pſalm 113.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN L.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LIII. (A HYMN ſung on a Day of Thankſgiving, ſet apart by a Church of Chriſt, to celebrate and praiſe the Lord for his late Favours and Mercies unto them.)
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN LIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN I.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN II.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN III.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN V.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN VIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN IX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN X.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XXXIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XL.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLV.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVI.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLVIII.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * HYMN XLIX.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+HYMN I.OUR Lord and Head we ſaw did falla Sacrifice for us;We by his Stripes are heal'd whilſt hewas
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+      * Theſe following Hymns were found in Mr. Browning's Study, and uſed by him at the Lord's Table.
+
+HYMN I.
+
+HYMN II.
+
+HYMN III.
+
+HYMN IV.
+
+HYMN V.
+
+HYMN VI.
+
+HYMN VII.
+
+HYMN VIII.
+
+HYMN IX
+
+HYMN X.
+
+HYMN XI.
+
+HYMN XII.
+
+HYMN XIII.
+
+HYMN XIV.
+
+HYMN XV.
+
+HYMN XVI.
+
+HYMN XVII.
+
+HYMN XVIII.
+
+HYMN XIX.
+
+HYMN XX.
+
+HYMN XXI.
+
+HYMN XXII.
+
+HYMN XXIII.
+
+HYMN XXIV.
+
+HYMN XXV.
+Note that at the end of every Hymn theſe two Verſes may be added.Hoſanna to King Davids Son!Hoſanna 
+HYMN XXVI.
+
+HYMN XXVII.
+
+HYMN XXVIII.
+
+HYMN XXIX.
+
+HYMN XXX.
+
+HYMN XXXI.
+
+HYMN XXXII.
+
+HYMN XXXIII.
+
+HYMN XXXIV.
+
+HYMN XXXV.
+
+HYMN XXXVI.
+
+HYMN XXXVII.
+
+HYMN XXXVIII.
+
+HYMN XXXIX.
+
+#####Back#####
+
+1. ERRATA.
+
+**Types of content**
+
+  * There are 4345 **verse** lines!
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 29 **omitted** fragments! 
+ @__reason__ (29) : illegible (29)  •  @__resp__ (29) : #OXF (29)  •  @__extent__ (29) : 1 letter (24), 1+ letters (5)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin Extended-A|ſ|383|
+|Latin Extended-B|Ʋ|434|
+|General Punctuation|•…—|8226 8230 8212|
+|Geometric Shapes|▪|9642|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|2||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|8| @__when__ (1) : 2014-11 (1)|
+|6.|__edition__|2||
+|7.|__editionStmt__|2||
+|8.|__editorialDecl__|1||
+|9.|__encodingDesc__|1||
+|10.|__extent__|2||
+|11.|__fileDesc__|1||
+|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), OCLC (1), VID (1)|
+|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|14.|__label__|5||
+|15.|__langUsage__|1||
+|16.|__language__|1| @__ident__ (1) : eng (1)|
+|17.|__listPrefixDef__|1||
+|18.|__note__|9||
+|19.|__notesStmt__|2||
+|20.|__p__|11||
+|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|22.|__profileDesc__|1||
+|23.|__projectDesc__|1||
+|24.|__pubPlace__|2||
+|25.|__publicationStmt__|2||
+|26.|__publisher__|2||
+|27.|__ref__|1| @__target__ (1) : http://www.textcreationpartnership.org/docs/. (1)|
+|28.|__revisionDesc__|1||
+|29.|__seriesStmt__|1||
+|30.|__sourceDesc__|1||
+|31.|__term__|1||
+|32.|__textClass__|1||
+|33.|__title__|3||
+|34.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__back__|1||
+|2.|__body__|1||
+|3.|__closer__|1||
+|4.|__desc__|29||
+|5.|__div__|154| @__type__ (154) : title_page (1), index_of_first_lines (1), publishers_advertisement (2), collection (1), book (3), hymn (142), part (2), notice (1), errata (1)  •  @__n__ (145) : 1 (4), 2 (4), 3 (4), 4 (3), 5 (3), 6 (3), 7 (3), 8 (3), 9 (3), 10 (3), 11 (3), 12 (3), 13 (3), 14 (3), 15 (3), 16 (3), 17 (3), 18 (3), 19 (3), 20 (3), 21 (3), 22 (3), 23 (3), 24 (3), 25 (3), 26 (3), 27 (3), 28 (3), 29 (3), 30 (3), 31 (3), 32 (3), 33 (3), 34 (3), 35 (3), 36 (3), 37 (3), 38 (3), 39 (3), 40 (2), 41 (2), 42 (2), 43 (2), 44 (2), 45 (2), 46 (2), 47 (2), 48 (2), 49 (2), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1)|
+|6.|__front__|1||
+|7.|__g__|9| @__ref__ (9) : char:EOLhyphen (6), char:V (2), char:punc (1)|
+|8.|__gap__|29| @__reason__ (29) : illegible (29)  •  @__resp__ (29) : #OXF (29)  •  @__extent__ (29) : 1 letter (24), 1+ letters (5)|
+|9.|__head__|169||
+|10.|__hi__|2507| @__rend__ (2) : blackletterType (2)|
+|11.|__item__|150||
+|12.|__l__|4345||
+|13.|__label__|142||
+|14.|__lg__|1095||
+|15.|__list__|18||
+|16.|__p__|7||
+|17.|__pb__|169| @__facs__ (169) : tcp:172249:1 (1), tcp:172249:2 (2), tcp:172249:3 (2), tcp:172249:4 (2), tcp:172249:5 (2), tcp:172249:6 (2), tcp:172249:7 (2), tcp:172249:8 (2), tcp:172249:9 (2), tcp:172249:10 (2), tcp:172249:11 (2), tcp:172249:12 (2), tcp:172249:13 (2), tcp:172249:14 (2), tcp:172249:15 (2), tcp:172249:16 (2), tcp:172249:17 (2), tcp:172249:18 (2), tcp:172249:19 (2), tcp:172249:20 (2), tcp:172249:21 (2), tcp:172249:22 (2), tcp:172249:23 (2), tcp:172249:24 (2), tcp:172249:25 (2), tcp:172249:26 (2), tcp:172249:27 (2), tcp:172249:28 (2), tcp:172249:29 (2), tcp:172249:30 (2), tcp:172249:31 (2), tcp:172249:32 (2), tcp:172249:33 (2), tcp:172249:34 (2), tcp:172249:35 (2), tcp:172249:36 (2), tcp:172249:37 (2), tcp:172249:38 (2), tcp:172249:39 (2), tcp:172249:40 (2), tcp:172249:41 (2), tcp:172249:42 (2), tcp:172249:43 (2), tcp:172249:44 (2), tcp:172249:45 (2), tcp:172249:46 (2), tcp:172249:47 (2), tcp:172249:48 (2), tcp:172249:49 (2), tcp:172249:50 (2), tcp:172249:51 (2), tcp:172249:52 (2), tcp:172249:53 (2), tcp:172249:54 (2), tcp:172249:55 (2), tcp:172249:56 (2), tcp:172249:57 (2), tcp:172249:58 (2), tcp:172249:59 (2), tcp:172249:60 (2), tcp:172249:61 (2), tcp:172249:62 (2), tcp:172249:63 (2), tcp:172249:64 (2), tcp:172249:65 (2), tcp:172249:66 (2), tcp:172249:67 (2), tcp:172249:68 (2), tcp:172249:69 (2), tcp:172249:70 (2), tcp:172249:71 (2), tcp:172249:72 (2), tcp:172249:73 (2), tcp:172249:74 (2), tcp:172249:75 (2), tcp:172249:76 (2), tcp:172249:77 (2), tcp:172249:78 (2), tcp:172249:79 (2), tcp:172249:80 (2), tcp:172249:81 (2), tcp:172249:82 (2), tcp:172249:83 (2), tcp:172249:84 (2), tcp:172249:85 (2)  •  @__rendition__ (2) : simple:additions (2)  •  @__n__ (159) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1)|
+|18.|__trailer__|1||
